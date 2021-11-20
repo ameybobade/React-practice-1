@@ -1,0 +1,15 @@
+.user
+{
+    margin: 32px auto;
+    width: 90%;
+    max-width: 640px;
+}
+.user ul{
+    list-style: none;
+    padding: 16px;
+}
+.user li{
+    border: 1px solid #ccc;
+    margin: 8px 0;
+    padding: 8px;
+}
